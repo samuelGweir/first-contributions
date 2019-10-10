@@ -17033,3 +17033,4 @@ rehan
 - [Born2Root](https://github.com/Born2Root)
 - [Shynd](https://github.com/Shynd)
 - [Lorenzo Bersano](https://github.com/lorenzobersano)
+- [Samuel Weir] (https://github.com/samuelGweir)
